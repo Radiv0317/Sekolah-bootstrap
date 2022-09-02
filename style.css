@@ -1,0 +1,10 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #edeffe;
+}
+#project{
+    background-color: #edeffe;
+}
+@media screen and (max-width: 600px){
+    
+}
